@@ -4,7 +4,7 @@ YoutubeExtractor is a Swift4 library to extract the download link from YouTube v
 
 ## Usage Example
 
-Add this in your root `build.gradle` file (**not** your module `build.gradle` file):
+Usage Example:
 
 ```
 https://www.youtube.com/watch?v=bJjQs9NJ0Ho
