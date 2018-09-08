@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=bJjQs9NJ0Ho
 ```
 
 ```swift
-YouTubeExtractor.instance.info(id: "bJjQs9NJ0Ho", quality: .HD720, completion: { url in                    
+YouTubeExtractor.instance.info(id: "bJjQs9NJ0Ho", quality: .x720, completion: { url in                    
   print(url?.absoluteString)
 })
 ```
